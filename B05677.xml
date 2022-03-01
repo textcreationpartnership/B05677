@@ -1,0 +1,302 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation for regulating and encouraging of trade and manufactories in the kingdom of Scotland</title>
+            <author>Scotland. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05677</idno>
+            <idno type="STC">Wing S1899</idno>
+            <idno type="STC">ESTC R183530</idno>
+            <idno type="EEBO-CITATION">52615086</idno>
+            <idno type="OCLC">ocm 52615086</idno>
+            <idno type="VID">176114</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05677)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176114)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2762:57)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation for regulating and encouraging of trade and manufactories in the kingdom of Scotland</title>
+                  <author>Scotland. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson ...,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Below title: Edinburgh, the eleventh day of April, 1681.</note>
+                  <note>Title vignette: Royal seal with initials C R.</note>
+                  <note>Imperfect: dark, print show-through with some loss of text.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trade regulation --  Scotland --  Early works to 1800.</term>
+               <term>Scotland --  Commerce --  Law and legislation --  Early works to 1800.</term>
+               <term>Scotland --  Economic policy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176114:1"/>
+            <pb facs="tcp:176114:1"/>
+            <p>A PROCLAMATION, For regulating and encouraging of TRADE AND MANUFACTORIES In the Kingdom of SCOTLAND.</p>
+            <p>Edinburgh, <hi>the Eleventh day of</hi> April, 1681.</p>
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to His moſt Sacred <hi>MAJESTY,</hi> 1681.</p>
+         </div>
+      </front>
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:176114:2"/>
+            <pb n="3" facs="tcp:176114:2"/>
+            <head>A PROCLAMATION, For regulating and encouraging of TRADE AND MANUFACTORIES In the Kingdom of SCOTLAND.</head>
+            <opener>
+               <salute>
+                  <hi>
+                     <seg rend="decorInit">C</seg>HARLES,</hi> by the Grace of GOD, King of <hi>Great Britain, France</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> Defender of the Faith; To Our Lovits,</salute>
+            </opener>
+            <p>Our Lyon King at Arms, and his brethren Heraulds, Ma<g ref="char:EOLhyphen"/>cers of Our Privy Council, Purſevants or Meſſengers at Arms, Our Sheriffs in that Part, conjunctly and ſeverally, ſpecially conſtitute, and to all and ſun<g ref="char:EOLhyphen"/>dry Our Leidges and Subjects whom it Effeirs, Greeting. Where<g ref="char:EOLhyphen"/>as, by the Law of all Nations, the laying of Reſtraints and Impoſi<g ref="char:EOLhyphen"/>tions upon Forreign Imported Merchandiſes, Is acknowledged to be proper to, and inherent in the Perſons of all Soveraign Princes, as an undoubted Prerogative of the Crown. And that by the 26. <hi>Act</hi> of the 3. <hi>Seſs.</hi> of Our firſt <hi>Parliament,</hi> the ordering and diſpoſal of Trade with Forreign Countreys, and the laying of Reſtraints and Impoſitions upon Forreign imported Commodi<g ref="char:EOLhyphen"/>ties, Is aſſerted to belong to Us and Our Succeſſors, as an undoubt<g ref="char:EOLhyphen"/>ed Priviledge and Prerogative of the Crown; And that by ver<g ref="char:EOLhyphen"/>tue
+<pb n="4" facs="tcp:176114:3"/>thereof, We may lay ſuch Impoſitions, and Reſtraints upon Forreign Imported Commodities, and ſo order and diſpoſe upon the trade of them, as We ſhall judge fit for the good of Our King<g ref="char:EOLhyphen"/>dom. And there being ſeveral Repreſentations made to Us and Our Privy Council, by diverſe of the moſt conſiderable Mer<g ref="char:EOLhyphen"/>chants of this Kingdom, and others, that by the undue ballance of Trade, occaſioned chiefly by the Import of many unneceſſary, and ſuperfluous Commodities, conſumed upon vanity and luxu<g ref="char:EOLhyphen"/>ry, a great part of the ſtock of the Mony of the Kingdom was Exported, and the improvement of the native Export, and Manu<g ref="char:EOLhyphen"/>facture of the Kingdom neglected, nothwithſtanding of the many good and wholſome Laws made by Us and Our Royal Anceſtors for encouragement thereof: And We, being ever ready to im<g ref="char:EOLhyphen"/>prove all occaſions and opportunites for the good and advantage of this Our Ancient Kingdom, By a Proclamation of the firſt of <hi>March</hi> laſt, with advice of Our Privy Council, thought fit to put a preſent ſtop to ſeveral ſuperfluous, unneceſſary, and expenſive Com<g ref="char:EOLhyphen"/>modities, <hi>viz.</hi> of all Silver and Gold Threed, Silver and Gold Lace, Fringes, or Tracing, all Buttons of Gold and Silver threed, all man<g ref="char:EOLhyphen"/>ner of Stuffs and Ribbans, in which there is any Gold or Silver threed and Philagrane work to be worn upon Apparel; as alſo all Forreign Holland-Linen, Cambrick, Laun, Dornick, Damask, Tyking, Buſtein or Damety, tufted or ſtripped Holland, Calligo, Muſline, Sileſia and Eaſt <hi>India</hi> Linen, and all other Cloths made of Linen or Cotton; as likewiſe, all Forreign Cloths and Stuffs whatſomever, made of wool-yairn, or wool and lint; all Forreign ſilk and woolen Stock<g ref="char:EOLhyphen"/>ings, all Forreign Laces made of ſilk, gimp, or threed, and all manner of Laces and Poynt of any ſorts or collours; all Forreign made Gloves, Shooes, Boots, and Slippers; and ordained, all ſuch Goods as ſhould happen to be Imported, to be burnt and de<g ref="char:EOLhyphen"/>ſtroyed, and the importers and reſſetters fined in the value of the Goods ſo Imported.</p>
+            <p>And whereas, that Affair concerning the Improvement of the Trade, and the Manufacture of this Our Kingdom, of ſo great conſequence to the benefit and advantage thereof, hath been frequently and fully conſidered: We, with advice of Our Privy Council have thought fit, not only to renew and ratifie the ſaid Proclamation; But farder, We do hereby diſcharge all Merchants or other perſons whatſoever, to Import into this Kingdom, any manner of Floured, Stripped, Figured, Checkered, Painted, or Printed ſilk Stuffs or Ribbans; all made Cloaths Im<g ref="char:EOLhyphen"/>ported from Abroad for men, Night-gowns, Petticoats and other Cloaths for women, and all made Cloaths for children, after the date hereof, excepting only ſuch as can be made appear upon Oath to have been ordered by preceeding Commiſſions, and Shipped before the twentieth two day of <hi>April</hi> inſtant, which time is al<g ref="char:EOLhyphen"/>lowed to the Merchants or others to recall their Commiſſions if any ſuch have been given; With certification, that all ſuch Goods as ſhall be otherwiſe Imported, ſhall be burnt and deſtroyed, and the importers or reſſetters fined in the value of the ſaids Goods.
+<pb n="5" facs="tcp:176114:3"/>It's hereby declared, that in this Prohibition, Silk ſtuffs, or Rib<g ref="char:EOLhyphen"/>bans, changing colloured, or watered, are not comprehended, nor plain Silk-ſtuffs, nor Ribbans. As alſo, that in the Prohibition in Our former Proclamation of the firſt of <hi>March,</hi> diſcharging the Importing of all Manufacture of Wool or Lint, <hi>Arras-Hangings</hi> and <hi>Carpets</hi> made abroad and Imported, are not diſcharged, but the ſame may be Imported as formerly.</p>
+            <p>And conſidering the great prejudice, not only the Merchants, who have great parts of their Stocks in theſe Goods upon than hands, but others may ſuſtain, if a total prohibition of wearing at a definit day, were appointed and prefixed: And, upon the other part, how difficult it may prove to make the ſaid Proclama<g ref="char:EOLhyphen"/>tion practicable and effectual againſt the Import &amp; Sale, if the Mer<g ref="char:EOLhyphen"/>chants be not ſtrictly bound up from any further Import or Sale: We have therefore thought fit, hereby to diſcharge all Merchants, or other perſons whatſoever, by themſelves, their wives, bairns, or ſervants, or any having warrant from them, or with whom they have any intereſt or ſhare in gain or loſs, To vend, ſell, barter, or exchange any of the ſaids prohibited Goods contained in the ſaid former, and this Our Proclamation, to any perſons re<g ref="char:EOLhyphen"/>ſidenters in this Our Kingdom, after the fifteenth day of <hi>June</hi> next; Except they ſign and fend in to Our Council, and give Oath be<g ref="char:EOLhyphen"/>fore the Magiſtrat, at the times, and in manner following, contai<g ref="char:EOLhyphen"/>ned in the Band ſubjoyned; with certification to them, if they refuſe to give up the ſaid Inventor, and Bond, and Oath, or give the ſame unfaithfully, they ſhall be holden repute, and eſteemed importers, venters, and reſſetters of the ſaids prohibited Goods, and that the ſaids Goods ſhall be ſeized upon, burnt and deſtroy<g ref="char:EOLhyphen"/>ed, and they fined in the value thereof, Ioſe their freedom for ever, and be otherwiſe proceeded againſt, conform to the Laws for their contempt. And the Magiſtrats of the ſeveral Burghs, are hereby ordered from time to time, to ſearch the Shops, Houſes, and Chambers of ſuch Merchants and others, as ſhall not give up Inventor, and give the Bond and Oath aftermentioned, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> burn and deſtroy the ſaids prohibited Goods; which Bond and Inven<g ref="char:EOLhyphen"/>tor, the ſaids Magiſtrats are ordered to take from the hail Mer<g ref="char:EOLhyphen"/>chants within their Burghs, and ſend in the ſame to the Council, betwixt and the fifteen days of <hi>June</hi> and <hi>November</hi> next <hi>reſpectivè,</hi> for this year, and yearly thereafter in <hi>June</hi> and <hi>November;</hi> and ſhall ſend in with the ſaid Inventor, Swatches of the ſeveral Stuffs and Ribbans contained in the ſame, marked and ſealed upon a pa<g ref="char:EOLhyphen"/>per apart, bearing the ſame to belong to ſuch a Merchant; And the Magiſtrats alſo are hereby ordained to ſend in with the ſaid In<g ref="char:EOLhyphen"/>ventor, Oath, Bond &amp; Swatches, yearly a report in write upon Oath, that they have truly and honeſtly performed their duty, &amp; have ſpa<g ref="char:EOLhyphen"/>red and paſt by no Merchant, and a liſt of ſuch perſons as ſhall refuſe the ſaid Bond and Oath. And We do hereby declare, That whoſoever ſhall delate any tranſgreſſors of this or Our former Proclamation, either as to Linen or Woolen Manufactures, or
+<pb n="6" facs="tcp:176114:4"/>prohibited ſilver and gold Ribbans, or Laces, or Threed, or pro<g ref="char:EOLhyphen"/>hibited Silk-ſtuffs and Ribbans, or any otherwiſe has tranſgreſſed the ſaid Proclamation, ſhall have the one half of the fines or other benefit ariſing thereby, for his incouragement. And the Tacks-men or Collectors of our Cuſtoms, Surveyors, Colle<g ref="char:EOLhyphen"/>ctors, Waiters, and their ſervants, are hereby ſtrictly required, and commanded, to ſearch for, ſeize upon, apprehend, burn and deſtroy, any of the ſaids prohibited Goods ſhall happen to be Imported contrair to the tenour of this and Our former Proclamation, and not to ſuffer the ſame to eſcape: With cer<g ref="char:EOLhyphen"/>tification to them if they failȝie, and ſuffer the ſaids prohibited Goods to be imported, either by tollerance or connivance, they ſhall not only amit and loſe their Places, and forever be declared incapable to ſerve in that or any ſuch publick Charge, and be fined in the value of the Goods, that through their default or neglect, ſhall happen to be Imported, but otherwiſe fined by Our Privy Council, conform to the quality and nature of their offence. And any Merchant or other perſon, who ſhall inform againſt any of the Fermorers, Collectors, Surveyors or Waiters, for neglect of their duty in the premiſſes, and prove the ſame, ſhall have their fines for a reward; and the Tacks-men and Collectors, are to ſend in their own Oaths, and the Oaths of ther Surveyors, Colle<g ref="char:EOLhyphen"/>ctors and ſervants twice in the year to the Council, that they have done their duty, as is before preſcribed, under the penalty and cer<g ref="char:EOLhyphen"/>tification foreſaid, and that at the foreſaids diets appointed for the returning of the Bonds of the Merchants.</p>
+            <p>And, whereas there are divers good Laws and Acts of Parlia<g ref="char:EOLhyphen"/>ment already made for the incouragement of the Manufactories of this Kingdom, and for encouragement of Strangers to come there<g ref="char:EOLhyphen"/>to, to ſet up in their ſeveral Callings, againſt the export of Li<g ref="char:EOLhyphen"/>nen and Woolen yairn, anent the Weaving and Bleetching of Linen Cloth. And particularly, by the 4. <hi>Act</hi> of Our 1. <hi>Parl.</hi> Intituled, <hi>Act for erecting Manufactures,</hi> It is ſtatute and ordained, that the Pri<g ref="char:EOLhyphen"/>viledges following, ſhall be granted to all ſuch perſons as have, or ſhall undertake to ſet up Manufactories, <hi>viz.</hi> If any ſtranger ſhall come, or be brought into this Kingdom by natives, to ſet up, work, and teach his Art in making of Cloth, Stuffs, Stockings, Soap, or any other kind of Manufactury, he ſhall enjoy the bene<g ref="char:EOLhyphen"/>fit of the Law, and all other Priviledges that a Native doth enjoy, with power to erect Manufactories either in Burgh or Landward, as they ſhall think fit, and there to dwell and exerciſe their Trade without any ſtop or trouble. And for their further encourage<g ref="char:EOLhyphen"/>ment, all Oyl, dying Stuffs, Forraign Wool, Pot aſhes, or any other Materials whatſoever uſeful for Manufactories that ſhall be Imported, Are declared to be free of Cuſtom and Exciſe, and other publick Dues; and that all Cloth, Stuffs, Stockings, or any other Commodity to be made and exported by them, be free of Cuſtom and Exciſe, for nineteen years after the Month of <hi>January,</hi> 1662. And all Cuſtomers, Collectors, Fermorers of Cuſtom and
+<pb n="7" facs="tcp:176114:4"/>Exciſe, are diſcharged to demand any Cuſtom or Exciſe, or any other Impoſition for ſuch Materials before-mentioned, belonging to Manufactories, as they will be anſwerable. And if any Stock ſhall be imployed for erecting or intertaining of any Manufactories, the ſame is to be free of all privat or publick Taxes whatſoever: and of all quarterings or levying of Souldiers upon Manufactories or the Maſters thereof, are diſcharged; With power to the Maſters, Erectors, or Intertainers of Manufactories, to meet by themſelves for making of Ordinances for the good and advancement of their Trade, for the right ordering their ſervants, and for the ſuffici<g ref="char:EOLhyphen"/>ency of their Stuffs, Cloths, and others, and choiſe one of the moſt expert of their number, for viſiting their Work.</p>
+            <p>And by the 43. <hi>Act</hi> of the ſame <hi>Parliament,</hi> The Exporting of Linen yairn forth of the Kingdom is diſcharged, under the pain of Confiſcation of the ſame. All the Weavers are diſcharged to make any Linen Cloth of the price of ten ſhilling <hi>Scots</hi> the Elne or above, under the breadth of an Elne and two Inches, that the ſame be taken up by the Selvedge, and not by the Rig, and be ſo preſented to the Mercat, and that the ſame be bleetched without lime, under the penalties of Impriſonment and fining.</p>
+            <p>By the 46. <hi>Act</hi> of the ſame <hi>Parliament,</hi> All Woorſted, Woolen-yairn, raw or unwaked-Cloths or Stuffs, except Plaiding, are diſ<g ref="char:EOLhyphen"/>charged to be exported forth of the Kingdom, under the pain of Confiſcation thereof. And by the 7. <hi>Act</hi> of the 1. <hi>Seſsion</hi> of Our ſecond <hi>Parliament,</hi> it is Statute and declared, for the increaſe and promoting of Trade and Manufactories, That all Stran<g ref="char:EOLhyphen"/>gers of the Proteſtant Religion, who ſhall come to, and ſet up new Works and Manufactories in the Kingdom, ſhall be naturalized as Native-born Subjects of this Kingdom, and are to enjoy Our Royal Protection, the benefit of the Law, and all other Privi<g ref="char:EOLhyphen"/>ledges which a Native doth enjoy; that they ſhall have liberty and freedom of Trade, to buy and purchaſe Lands, Hererages, and other goods, moveable and immoveable, and all other priviledges libertier and capacities which do belong to any Native Subject born within this Kingdom, as theſe ſeveral <hi>Acts</hi> of <hi>Parliament,</hi> containing divers other priviledges and immunities in favours of perſons who ſhall erect. Manufactories, or ſet up, and work in the ſame, more fully bears. Which ſeveral Laws and <hi>Acts</hi> of <hi>Parliament</hi> foreſaid; We, with advice of Our Privy Council, have thought fit, for the increaſe and promoving of Trade and Manufactories, to or<g ref="char:EOLhyphen"/>dain to be put to due and punctual Execution in all points. And We or ſain theſe perſons, who have already ſet up any Manufactories in this Our Kingdom, to have the whole priviledges and immuni<g ref="char:EOLhyphen"/>ties therein expreſt. And particularly, We ordain all Materials whatſoever, uſeful for Manufactories, that ſhall be imported, to be free of Cuſtom and Exciſe, and other publick dues, for the ſpace of nineteen years after the date hereof, conform to the power re<g ref="char:EOLhyphen"/>ſerved
+<pb n="8" facs="tcp:176114:5"/>to Our Privy Council by the ſaid 40. <hi>Act</hi> of Our firſt <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> in caſe the ſame be not found to be perpetual, but only temporary.</p>
+            <p>And in regard the Execution of the ſaid 40. and 43. <hi>Acts</hi> of Our ſaid firſt <hi>Parliament,</hi> Is committed to Magiſtrats of Burghs, She<g ref="char:EOLhyphen"/>riffs of Shires, Lords of Regalities and Baronies, in their reſpe<g ref="char:EOLhyphen"/>ctive bounds: And that by their overſight and neglect the ſame has not been put in execution, We ordain and require, the ſaids Magiſtrats to put the ſame to due and punctual execution, to pu<g ref="char:EOLhyphen"/>niſh the tranſgreſſors, and exact and uplift the penalties. And do declare, that if the ſaids Magiſtrats be remiſs or negligent in their duty, they ſhall be called and purſued before our Council, and fi<g ref="char:EOLhyphen"/>ned therefore.</p>
+            <p>And, conſidering that the gifting of the Penalties of theſe Acts may be an occaſion to obſtruct the execution thereof, by the Do<g ref="char:EOLhyphen"/>nators componing therefore, We declare, that we will not here<g ref="char:EOLhyphen"/>after grant any gift of the ſame, and recommend to the Lords of Our Theſaury and Exchequer, not to grant any gift thereof, in prejudice of the execution of theſe Acts.</p>
+            <p>And whereas, albeit by the ſaids Acts it is determined, what the breadth of Linen-Cloth ſhall be wrought at by the Weavers, to make the ſame fit for ſale, and have credit abroad; yet nothing is determined as to the length of the ſeveral pieces, We ordain, that hereafter, Linen brought to Mercat for publick ſale, be made up in Pieces and half Pieces, and that the Piece contain twenty Elns, and the half Piece ten Elns, and that none be made up of ſhorter nor longer length for publick ſale, under the pain of con<g ref="char:EOLhyphen"/>fiſcation of the ſame. And We ordain the Weavers of all Linen Cloth for publick ſale, to work the ſame at the breadth foreſaid, and no otherwiſe; and betwixt and the firſt day of <hi>August</hi> next, to provide themſelves with fine Reeds, Work-looms, and other fit materials for their Trade, under the penalty of Impriſonment for the ſpace of fourteen dayes, and of twenty Pound <hi>Scots</hi> for ilk fault <hi>toties quoties,</hi> to be exacted by Magiſtrats of Burghs, Sheriffs of Shires, Lords of Regalities and Burghs in the reſpective bounds, and Confiſcation of the ſame to the uſe of the Attatchers thereof. And the ſeveral Magiſtrats foreſaids, are ordained in their reſpective bounds, betwixt and the firſt Thurſday of <hi>September</hi> next, to give an account of the perſons diſobedient, that they may be further puniſhed, in which they are not to fail, as they will be anſwe<g ref="char:EOLhyphen"/>rable.</p>
+            <p>And whereas divers un-free-men and others, who do not bear publick burthen within Burghs, are in uſe to import prohibited Commodities in Noblemen and Gentlemens Trunks, to the great prejudice of Trade; The Tacks men or Collectors of our Cuſtoms,
+<pb n="9" facs="tcp:176114:5"/>Surveyors, Collectors, Waiters, and their ſervants, are hereby re<g ref="char:EOLhyphen"/>quired to ſight the Trunks of any perſon of what quality ſoever, at their landing, and to ſeize upon, burn and deſtroy, the ſaid prohibited Goods; with certification to them if they failȝie, they ſhall not only be liable for the value of the ſaids Goods, to be pay<g ref="char:EOLhyphen"/>ed to the uſe of any Merchant, Maſter or Member of any Manufa<g ref="char:EOLhyphen"/>ctorie, who ſhall firſt diſcover the ſame, beſides, that they ſhall loſe and amit their places. And it is hereby declared, it ſhall be leiſome to the <hi>Deacons</hi> of the SKINNERS, TAYLORS and SHOOMAK<g ref="char:EOLhyphen"/>ERS, upon information given to them of the importing of any For<g ref="char:EOLhyphen"/>raign made Gloves, Cloaths, Shooes, Boots, or Slippers, now prohi<g ref="char:EOLhyphen"/>bited to be imported, to ſearch for the ſame wherever they can be found: and in caſe they find any, to repreſent it to the Magiſtrats, to the effect the Magiſtrats upon trial and probation, may cauſe burn and deſtroy the ſame: or in caſe the ſame be imported and con<g ref="char:EOLhyphen"/>cealed, ſo that they cannot be diſcovered and ſeized, to purſue the importers or reſſetters thereof, for the value of the ſame, which is to be applyed to their own uſe, for their pains in the diſcovery.</p>
+            <p>In regard that by the Book of Rates, the Impoſition put upon made Work of Iron, Copper, &amp; Braſs, imported into this Kingdom, is appointed to be by the Stone weight; We have thought fit for the encouragement of the Manufactorie thereof in this Kingdom, and for ballance of Trade in theſe Commodities hereafter, to or<g ref="char:EOLhyphen"/>dain and appoint five of the hundred for Cuſtom, and as much for Exciſe, to be put upon, and exacted by, Our Cuſtomers, for each hundred value of all ſuch imported made Work, and not to be uplifted by the Stone weight.</p>
+            <p>Whereas it may be of great advantage to Trade, and improve<g ref="char:EOLhyphen"/>ment of Manufactorie, that ſome encouragement may be given for building of Ships within this Kingdom; We have thought fit to ordain all Materials neceſſary for building and rigging of Ships in this Kingdom; ſuch as Timber and Planks for Shipping, Sails, Anchors, Cables and Towes, to be free of all manner of Duty; and do prohibite and diſcharge, the buying or building abroad, any Ships or Veſſels, after the firſt day of <hi>June</hi> next, under the penalty of Confiſcation thereof.</p>
+            <p>And ſeing for the encouragement of Fiſhing and export of Herring, being one of the greateſt Commodities of this Kingdom, albeit Forraign Salt did all pay Cuſtome and Exciſe at the the en<g ref="char:EOLhyphen"/>try; yet, it being intended, that Forraign Salt employed upon Herring, ſhould be free of Burthen; The <hi>Act</hi> of <hi>Parliament</hi> in the year, 1669, ordains the Merchant exporter, to have allowed or repayed by the Cuſtomers, ten Pounds four ſhilling <hi>Scots</hi> for the Salt of each exported Laſt of Herring; And whereas, by the <hi>Act</hi> of <hi>Parliament</hi> in the year, 1673, anent the taking away the Praeemp<g ref="char:EOLhyphen"/>tion of Salt, it is appointed, that the exporters of Herring ſhall
+<pb n="10" facs="tcp:176114:6"/>only be free of Cuſtom at the export, being only twenty four ſhillings upon the Laſt, whereby the Merchants have ever ſince wan<g ref="char:EOLhyphen"/>ted the allowance of nine Pounds <hi>Scots,</hi> being a great detriment to the Kingdom; We have ordained, and ordain, that in time coming, the Merchant exporter ſhall have allowed or repayed by the Cuſtomers, ten Pounds four Shillings for the Salt of each exported Laſt of Herring, conform to the ſaid Act of Parliament in the year 1679, and former practice.</p>
+            <p>And whereas, by divers Acts of Parliament, and the book of Rates, there are great Impoſitions laid upon Forraign Commodities, for the encouragement of Manufactures of this Kingdom, near to the nature of a Prohibition, and that by the connivance of the Cuſtomers, the ſaids Goods are permitted to be imported upon Compoſition; We do hereby ordain the Tacks-men or Collectors of our Cuſtoms, Surveyors, Waiters, and their ſervants, to exact the Cuſtom and Exciſe put upon the ſaids Goods, without any manner of abate<g ref="char:EOLhyphen"/>ment or compoſition, under the penalty of loſing their Offices, and being fined, and the one half of their fines to belong to Us, and the other half to the diſcoverer.</p>
+            <p>And for the encouragement of Learning and Manufactorie of Book-binding; We have thought fit, to ordain ten of the hun<g ref="char:EOLhyphen"/>dred to be exacted off all bound-Books warrantably imported for publick ſale, conform to the book of Rates; but that all Books warrantably imported in Sheets not bound, be free of all manner of Duty.</p>
+            <p>And whereas upon tryal it is found, that the Goldſmiths in the City of <hi>Edinburgh,</hi> and other Burrows, do work below the Stan<g ref="char:EOLhyphen"/>dart of eleven penny fine, conform to the 56. <hi>Act</hi> of the 6. <hi>Par<g ref="char:EOLhyphen"/>liament</hi> of Queen <hi>Mary;</hi> We do hereby Require and Command the Goldſmiths of <hi>Edinburgh,</hi> and the reſt of the Kingdom, to work up to the ſaid Standard of eleven penny fine, under the pain of Death and Confiſcation of their Moveables, which is the certi<g ref="char:EOLhyphen"/>fication of the ſaid Act of Parliament. And for tryal of the Plate, Ordains the Deacon of the Goldſmiths of <hi>Edinburgh,</hi> to take Eſſay thereof, by the Copel-Eſſay and no otherways, and that the new made work bear the date, by the <hi>A. B. C.</hi> And the Deacon for the time is to be anſwerable for the Lignet the time of his Dea<g ref="char:EOLhyphen"/>conry, that it ſhall be according to the Standard, and for every particular piece of work marked by him, under the certification foreſaid. And declares, that any Silver Work ſhall be found made and tryed, and marked otherways, after the firſt day of <hi>June</hi> next, or found in the Goldſmiths Work-houſes or Shops, or in their poſſeſſion, ſhall fall under the foreſaid certification. And for a Check to the Goldſmiths of <hi>Edinburgh,</hi> We ordain the Dea<g ref="char:EOLhyphen"/>con once in two years, at the end of his Deacon-ſhip, to make up a Lignet of the ſeveral Eſſays, and give in the ſame to the Ma<g ref="char:EOLhyphen"/>ſter of Our Mint, to be tryed by the Eſſay Maſter. And We
+<pb n="11" facs="tcp:176114:6"/>diſcharge all Goldſmiths of any other Burghs, to make any Sil<g ref="char:EOLhyphen"/>ver Plate hereafter, except of the fineneſs foreſaid; and appoint the Goldſmiths of each Burgh, to keep and Eſſay Box of all Plate made by them; which Box, they are ordained to ſend in to OUR GOLD<g ref="char:EOLhyphen"/>SMITH, or Deacon of the Goldſmiths of <hi>Edinburgh</hi> for the time, once in the year, to be tryed by them, or either of them, and thereafter by the Eſſay-maſters of Our Mint, under the pain of Death and Confiſcation of all their Moveables, conform to the Act of Parliament foreſaid; and the Goldſmith, or Goldſmiths in other Burghs of the Kingdom, ſhall ſet his Name upon his Work, marked with the <hi>A. B. C.</hi> as aforeſaid, and any Work other<g ref="char:EOLhyphen"/>ways made or marked by him, or which he ſhall have in his Shop, or poſſeſſion, after the firſt of <hi>June</hi> next, ſhall fall under the fore<g ref="char:EOLhyphen"/>ſaid certification. And we allow the Goldſmiths to take price for the new Work, conform to the augmentation of the fineneſs, as it is now preſcribed; and for their Workmanſhip being plain, or better Work, as they and the buyers ſhall agree. And for the in<g ref="char:EOLhyphen"/>couragement of the Goldſmiths, and that the Lieges be not de<g ref="char:EOLhyphen"/>ceived and abuſed by Silver-work, under the foreſaid fineneſs, im<g ref="char:EOLhyphen"/>ported from other places; We hereby diſcharge the Importati<g ref="char:EOLhyphen"/>on of all Silver-work by Merchants, or others for ſale, except that which is marked with the ordinary marks of Silver-work of <hi>Lon<g ref="char:EOLhyphen"/>don</hi> or <hi>Paris,</hi> under the penalty of confiſcation thereof, the one half for Our Uſe, and the other to the diſcoverer.</p>
+            <p>And ſeing by the Prohibition but by Us upon the ſeveral Com<g ref="char:EOLhyphen"/>modities mentioned in Our former, and this Our Proclamation, and by the execution of Our Laws, for the incouragement of Ma<g ref="char:EOLhyphen"/>nufacturies, the deduction allowed for the Exciſe of Salt, im<g ref="char:EOLhyphen"/>ployed upon Fiſhes exported, and materials imported for building of Ships, the ſame will conſiderably diminiſh Our Cuſtomes and Exciſe. And We having, with advice of Our Council, fully conſidered, what imported Commodities may beſt bear a further Duty, for ballancing and making up the ſame, with the leaſt inconvenience to Trade, and the profite of the Kingdom; We with advice foreſaid, conform to the foreſaid 26. <hi>Act</hi> of Our 3. Seſſion of Parliament, have ordained, and or<g ref="char:EOLhyphen"/>dain the additional Exciſe under-written, to be put upon, and exacted off the ſeveral Commodities following, <hi>viz.</hi> That whereas <hi>French</hi> Wine now pays of Cuſtome, Exciſe and Bullion, ſix Pounds two ſhillings Sterling upon each Tun, We ordain each Tun of <hi>French</hi> Wine to pay eighteen ſhillings Sterling more of addition<g ref="char:EOLhyphen"/>al Exciſe: And each Tun of Brandy, which pays now ten Pounds Sterling the Tun, that the ſame pay twenty Pounds Sterling the Tun, with the burden of Bullion as formerly. And ſeing that Tobacco that comes immediatly from the Plantations, pays ſixteen pennies Scots of Duty upon each pound weight, and that which comes from <hi>London</hi> and other parts, not immediatly from the Plantations, pays now two ſhilling Scots; We ordain, that the Duty upon Tobacco, coming immediatly from the Plantations,
+<pb n="12" facs="tcp:176114:7"/>continue as formerly; but that <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> place pay eight pernies more, be <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> upon each pound weight, in regard ther<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>modities Tranſported to the Plantations, but none <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> for Tobacco, but only ready Money: and <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> beer, and other forraign B<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> or Ale imported, to pay <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhillings Sterling the Tun of Cuſtome and Exciſe. And that <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Subjects may have no ground to murmur of any new burd<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> We do declare, that the additions foreſaids upon Wine, Bra<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, Tobacco, Mum-beer, and other Forraign Beer and Ale, is on<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in compenſation of the Detriment, Our Cuſtoms and Exciſe <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſuffer by the ſaids Prohibitions, and are to continue and end un<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> while the Prohibitions appointed by this and Our former Procla<g ref="char:EOLhyphen"/>mations are in vigour, and Our Cuſtoms and Exciſe in Collection and no longer. Our Will is herefore, and We Charge you ſtri<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ly and Command, that incontinent, theſe Our Letters ſeen, <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>paſs to the Mercat Croſs of <hi>Edinburgh,</hi> and other places need<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and thereat, in Our Name and Authority, by open Proclamation make Publication of the Premiſſes, that none pretend ignorant <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as alſo of the Bond hereto ſubjoyned; the which to do, We com<g ref="char:EOLhyphen"/>mit to you conjunctly and ſeverally Our full Power, by theſe Our Letters, delivering them by you duely execute, and <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> again to the bearer. And ordains theſe Preſents to be Pri<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ed.</p>
+            <closer>
+               <dateline>
+                  <hi>Given under Our Signet at</hi> Edinburgh, <date>
+                     <hi>the Eleventh day of</hi> April, <hi>One thouſand ſix hundred eighty and one, And of <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Raign, the thretty three Year.</hi>
+                  </date>
+               </dateline>
+               <signed>
+                  <hi>Per actum Dominorum Secreti Concilij. PAT. MENZIE<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Cl. Sti. Concilij.</hi>
+               </signed>
+            </closer>
+            <closer>GOD ſave the KING.</closer>
+         </div>
+         <div type="bond">
+            <pb facs="tcp:176114:7" rendition="simple:additions"/>
+            <head>Follows the tenor of the Bond to be ſigned by the Merchants, in the ſeveral Burghs of this Kingdom.</head>
+            <p>WE the Merchants of the Burgh of under-ſubſcribing, Whereas by His Majeſties Proclamation of the firſt day of <hi>March</hi> laſt, the Importation of the ſeveral Commodi<g ref="char:EOLhyphen"/>ties following are diſcharged, <hi>viz.</hi> Of all ſilver and gold Threed, ſilver and gold Lace, Fringes or Tracing, all Buttons of gold and ſilver Threed, und all manner of Stuffs or Ribbons in which there is any gold or ſilver Threed, all Philagrane work to be worn upon Apparel; as alſo, all For<g ref="char:EOLhyphen"/>raign Holland-Linen, Cambrick, Lawn, Dornick, Damesk, Tiking, Buſtein; or Damety, tufted or stripped Holland, Calligo, Muſline, <hi>Sileſia</hi> and <hi>Eaſt-India</hi> Linen, and all other Clothes made of Linen or Cotton; as likewiſe, all Forraign Cloths and Stuffs whatſoever, made of Woollen-Yarn, or Wool and Lint, all forraign Silk and Woollen Stockings, all forraign Laces made of Silk, Gimp or Threed, all manner of Laces or Point of any ſort or Colours, all forraign made Gloves, Shoes, Boots and Slippers, after the date of the ſaid Proclamation; except only ſuch as can be made appear upon Oath to have been ordered by preceeding Com<g ref="char:EOLhyphen"/>miſſions, and ſhipped before the tenth of <hi>March</hi> now bypaſt: with certifi<g ref="char:EOLhyphen"/>cation, that all ſuch Goods as ſhall be ſo imported, ſhall be burnt and de<g ref="char:EOLhyphen"/>ſtroyed, and the Importers and Refference fined in the value of the Goods ſo imported. And whereas, by His Majeſties Proclamation, of the date the eleventh day of <hi>April</hi> the ſaid Year, not only the importation of the ſaids Goods are prohibited, but alſo all manner of flowred, ſtripped, fi<g ref="char:EOLhyphen"/>gured, checkered, painted or printed ſilk Stuffs, or Ribbons; all made Clothes imported from abroad, for Men, Night-Gowns, Petticoats, and other Clothes for Women, and all made Clothes for Children; Declar<g ref="char:EOLhyphen"/>ing, that Stuffs or Ribbons changing coloured or watered, are not com<g ref="char:EOLhyphen"/>prehended in the ſaid Prohibition; and excepting from the ſaid Woollen Manufactory, prohibited to be imported, Arras-Hangings and Carpets; by which Proclamation, not only the importing of the ſaids prohibited Goods are diſcharged, but alſo the vending and ſelling thereof by whole Sale or Retail is prohibited, and there is only allowed the ſale of plain ſilk Stuffs and Ribbons, and Woollen and Linnen Manufacture made within this Kingdom, by ſuch Perſons as ſhal ſubſcribe a Bond of the tenor following: Therefore to be bound and obliged, Likeas, we for our own parts, bind and obligeus, our Airs, Executours and Aſſigneys, that none of the ſaids Goods, prohibited to be imported, ſhall be imported by us, our Wives, Bairns, or Servants, or any having warrand from us, or with whom we have any intereſt or ſhare in Gain or Loſs, and that none of the ſaids prohibited Goods ſhall be vended or ſold, bartered or exchanged to any
+<pb n="14" facs="tcp:176114:8"/>Perſons Reſidenters in this Kingdom, by us, our Wives, Bairns, Ser<g ref="char:EOLhyphen"/>vants, or any by our Warrand, with whom we have ſhare in Gain <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Loſs, which at the time of our buying or receiving thereof were kno<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to us to have been imported contrair to the ſaids Proclamations, un<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> the penalties contained therein. Likeas, we bind and oblige us, and <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> foreſaids, not to buy, vend or ſell to any Perſon reſiding in this King<g ref="char:EOLhyphen"/>dom, in whole Sale or Retail, any ſilver or gold Threed, or any <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of Stuffs or Ribbons, in which there is any gold or ſilver Threed, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Philagrane work of ſilver or gold to be worn upon Apparel, except only ſuch as are contained in an Inventor given up by us upon Oath, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the ſame were imported before the time appointed by the ſaid Proclama<g ref="char:EOLhyphen"/>tion, after which the import or ſale of the ſaids prohibited Goods <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> diſcharged. Likeas, we bind and oblige us and our foreſaids, to de<g ref="char:EOLhyphen"/>clare upon our ſolemn Oaths, before one or more of the Magiſtrates of the ſaid Burgh, whether we or our forſaids, Wives, Bairns, Servants and others having commiſſion from, or ſhare with us, have impo<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> any of the ſaids prohibited Goods ſince the terms reſpective of the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Proclamations, and what the kind, quantity, value and price were which we bought the ſame, and what we have vended or ſold, bar<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> or exchanged of the ſaids Goods, known to us to have been imported <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>trair to the ſaid Proclamation, when we bought or received the ſame that we have in our hands belonging to us, the Goods contained in the Inventor, and no more or leſs thereof, and that betwixt and the fifteen of <hi>June</hi> and <hi>Novemb.</hi> next reſpective for this Year, and yearly the<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> on the ſecond Thurſdays of <hi>June</hi> and <hi>Novemb.</hi> reſpective, that repo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be made to His Majeſties Privy Council upon the next Thurſday <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> after; with Certification, that if we failȝie to depone and declare Oath as aforeſaid, upon the times before-mentioned, and each of <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that we ſhall be holden as confeſs'd for tranſgreſſing the ſaids Pr<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tions, to the effect we may be fined by His Majeſties Privy Cou<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> they ſhall find just; and that it ſhall be leiſome to the Magist<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> the ſaid Burgh, or others impowered by His Majesties Privy Cou<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſearch our Shops, Houſes, or Chambers, at what time, and how they pleaſe, for finding the ſaids prohibited Goods, that the ſame be ſeized, burnt and deſtroyed; and that any Cloths, Stuffs, or <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or Woollen Manufactury that ſhall be found in our Shops, Houſe <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Chambers, which we ſhall not be ready (the time of the ſaid ſea<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to depone upon Oath, were not known to us to have been imported <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>trair to the ſaids Proclamations, the time we bought or received ſame, ſhall be holden as unwarrantably imported, or bought by us, <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>trair to the ſaids Proclamations, and ſhall be accordingly deſtr<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Likeas, we bind and oblige us, and our foreſaids, to depone upon <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Oaths, at all the ſaids Dyets, whom we know to have tranſgreſſ<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> ſaids Proclamations, and whom we know can be witneſs thereof, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> what the particulars are in which they have tranſgreſſed, under the <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>nalty of five hundreth Merks, <hi>toties quoties,</hi> for ilk one of us, in <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of failȝie.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
